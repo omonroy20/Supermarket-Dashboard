@@ -1,2 +1,3 @@
 # Supermarket-Dashboard
 I decided to showcase a different skill this time around: my ability to create dashboards on Excel. So here I have a dataset with 3 different branches of supermarkets from what I believe is Myanmar based on the city names. The dataset contains information such as sales, customer type, gross income, and more. I decided it would be the best data set to showcase my ability to create a dashboard in Excel with the ample amount of information I could use. Source:  https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+P.S>: You might have to download the file in order to see the work as I think GitHub doesn't display the work, at least not without problems.
